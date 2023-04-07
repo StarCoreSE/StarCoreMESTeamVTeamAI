@@ -373,7 +373,7 @@
         [ReplenishSystems:true]
 
 
-        [SpawnConditionsProfiles:SCSpawnCondition1]
+        [SpawnConditionsProfiles:SCSpawnCondition2]
 
 
       </Description>
@@ -388,7 +388,7 @@
             <Z>500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="SpawnDragonslayer">
           <Position>
@@ -397,7 +397,7 @@
             <Z>500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2Fac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="SpawnBismarck">
           <Position>
@@ -406,7 +406,7 @@
             <Z>-500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2Fac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="SpawnTheUm">
           <Position>
@@ -415,7 +415,7 @@
             <Z>500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
       </Prefabs>
     </SpawnGroup>
@@ -430,7 +430,7 @@
         [UseRivalAi:true]
         [RivalAiReplaceRemoteControl:true]
         [ReplenishSystems:true]
-        [SpawnConditionsProfiles:SCSpawnCondition1]
+        [SpawnConditionsProfiles:SCSpawnCondition2]
       </Description>
       <IsPirate>true</IsPirate>
       <Frequency>5.0</Frequency>
@@ -442,7 +442,7 @@
             <Z>0.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="XeroCDR">
           <Position>
@@ -451,7 +451,7 @@
             <Z>500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="i have mouth and i scream">
           <Position>
@@ -460,7 +460,7 @@
             <Z>1000.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="The Great Dying">
           <Position>
@@ -469,7 +469,7 @@
             <Z>1500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighterRammerGD</Behaviour>
+          <Behaviour>SCFighterFac2RammerGD</Behaviour>
         </Prefab>
       </Prefabs>
     </SpawnGroup>
@@ -488,7 +488,7 @@
         [ReplenishSystems:true]
 
 
-        [SpawnConditionsProfiles:SCSpawnCondition1]
+        [SpawnConditionsProfiles:SCSpawnCondition2]
 
 
       </Description>
@@ -503,7 +503,7 @@
             <Z>-500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighterRammer</Behaviour>
+          <Behaviour>SCFighterFac2Rammer</Behaviour>
         </Prefab>
         <Prefab SubtypeId="MCRLongbow">
           <Position>
@@ -512,7 +512,7 @@
             <Z>0.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="Witch of November (LBX)">
           <Position>
@@ -521,7 +521,7 @@
             <Z>500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="AugChimera">
           <Position>
@@ -530,7 +530,7 @@
             <Z>500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
       </Prefabs>
     </SpawnGroup>
@@ -547,7 +547,7 @@
         [RivalAiReplaceRemoteControl:true]
         [ReplenishSystems:true]
 
-        [SpawnConditionsProfiles:SCSpawnCondition1]
+        [SpawnConditionsProfiles:SCSpawnCondition2]
 
       </Description>
       <IsPirate>true</IsPirate>
@@ -560,7 +560,7 @@
             <Z>0.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="TerminusEst">
           <Position>
@@ -569,7 +569,7 @@
             <Z>0.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="AutoRanger">
           <Position>
@@ -578,7 +578,7 @@
             <Z>0.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="TECAggro">
           <Position>
@@ -587,7 +587,7 @@
             <Z>500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
       </Prefabs>
     </SpawnGroup>
@@ -604,7 +604,7 @@
         [RivalAiReplaceRemoteControl:true]
         [ReplenishSystems:true]
 
-        [SpawnConditionsProfiles:SCSpawnCondition1]
+        [SpawnConditionsProfiles:SCSpawnCondition2]
 
       </Description>
       <IsPirate>true</IsPirate>
@@ -617,7 +617,7 @@
             <Z>-250.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="KSTPancake">
           <Position>
@@ -626,7 +626,7 @@
             <Z>-250.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="Kanabo">
           <Position>
@@ -635,7 +635,7 @@
             <Z>250.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="TECSharkSteel">
           <Position>
@@ -644,7 +644,7 @@
             <Z>250.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
       </Prefabs>
     </SpawnGroup>
@@ -663,7 +663,7 @@
         [ReplenishSystems:true]
 
 
-        [SpawnConditionsProfiles:SCSpawnCondition1]
+        [SpawnConditionsProfiles:SCSpawnCondition2]
 
 
       </Description>
@@ -678,7 +678,7 @@
             <Z>0.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="TECDyingStar">
           <Position>
@@ -687,7 +687,7 @@
             <Z>0.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="UODLuminar">
           <Position>
@@ -696,7 +696,7 @@
             <Z>0.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
         <Prefab SubtypeId="MCEKarl">
           <Position>
@@ -705,7 +705,7 @@
             <Z>500.0</Z>
           </Position>
           <Speed>1</Speed>
-          <Behaviour>SCFighter</Behaviour>
+          <Behaviour>SCFighterFac2</Behaviour>
         </Prefab>
       </Prefabs>
     </SpawnGroup>
