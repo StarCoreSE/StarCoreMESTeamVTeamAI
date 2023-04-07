@@ -140,6 +140,144 @@
       </Prefabs>
     </SpawnGroup>
 
+    <!--FACTION 1-->
+
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>Merged2PSpawnGroupFac2</SubtypeId>
+      </Id>
+      <Description>
+        [Modular Encounters SpawnGroup]
+        [UseRivalAi:true]
+        [RivalAiReplaceRemoteControl:true]
+        [ReplenishSystems:true]
+        [SpawnConditionsProfiles:SCSpawnCondition2]
+      </Description>
+      <IsPirate>true</IsPirate>
+      <Frequency>5.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="A Hundred Names and Thousands More">
+          <Position>
+            <X>500.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>1</Speed>
+          <Behaviour>SCFighterFac2</Behaviour>
+        </Prefab>
+        <Prefab SubtypeId="Dragonslayer">
+          <Position>
+            <X>1000.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>1</Speed>
+          <Behaviour>SCFighterFac2</Behaviour>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>Merged3PSpawnGroupFac2</SubtypeId>
+      </Id>
+      <Description>
+        [Modular Encounters SpawnGroup]
+        [UseRivalAi:true]
+        [RivalAiReplaceRemoteControl:true]
+        [ReplenishSystems:true]
+        [SpawnConditionsProfiles:SCSpawnCondition2]
+      </Description>
+      <IsPirate>true</IsPirate>
+      <Frequency>5.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="CougarAI">
+          <Position>
+            <X>500.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>1</Speed>
+          <Behaviour>SCFighterFac2</Behaviour>
+        </Prefab>
+        <Prefab SubtypeId="XeroCDR">
+          <Position>
+            <X>500.0</X>
+            <Y>0.0</Y>
+            <Z>500.0</Z>
+          </Position>
+          <Speed>1</Speed>
+          <Behaviour>SCFighterFac2</Behaviour>
+        </Prefab>
+        <Prefab SubtypeId="i have mouth and i scream">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>500.0</Z>
+          </Position>
+          <Speed>1</Speed>
+          <Behaviour>SCFighterFac2</Behaviour>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+
+    <SpawnGroup>
+      <Id>
+        <TypeId>SpawnGroupDefinition</TypeId>
+        <SubtypeId>Merged4PSpawnGroupFac2</SubtypeId>
+      </Id>
+      <Description>
+        [Modular Encounters SpawnGroup]
+        [UseRivalAi:true]
+        [RivalAiReplaceRemoteControl:true]
+        [ReplenishSystems:true]
+        [SpawnConditionsProfiles:SCSpawnCondition2]
+      </Description>
+      <IsPirate>true</IsPirate>
+      <Frequency>5.0</Frequency>
+      <Prefabs>
+        <Prefab SubtypeId="TigerShark">
+          <Position>
+            <X>500.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>1</Speed>
+          <Behaviour>SCFighterFac2</Behaviour>
+        </Prefab>
+        <Prefab SubtypeId="MCRLongbow">
+          <Position>
+            <X>500.0</X>
+            <Y>0.0</Y>
+            <Z>500.0</Z>
+          </Position>
+          <Speed>1</Speed>
+          <Behaviour>SCFighterFac2</Behaviour>
+        </Prefab>
+        <Prefab SubtypeId="Witch of November (LBX)">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>500.0</Z>
+          </Position>
+          <Speed>1</Speed>
+          <Behaviour>SCFighterFac2</Behaviour>
+        </Prefab>
+        <Prefab SubtypeId="AugChimera">
+          <Position>
+            <X>0.0</X>
+            <Y>0.0</Y>
+            <Z>0.0</Z>
+          </Position>
+          <Speed>1</Speed>
+          <Behaviour>SCFighterFac2</Behaviour>
+        </Prefab>
+      </Prefabs>
+    </SpawnGroup>
+
+
 
     <!--Do Not Edit Below Here-->
 	</SpawnGroups>
